@@ -1,4 +1,4 @@
-Marvel Database Creation & Analysis Project
+Disney Database Creation & Analysis Project
 
 	Introduction
 Welcome to the "Disney Database Creation & Analysis" project! This repository is dedicated to guiding enthusiasts and professionals in the field of data science through the process of creating and analyzing a comprehensive dataset of Marvel characters and stories. It's an ideal project for those interested in exploring data related to comics, movies, and Marvel lore through Python programming.
